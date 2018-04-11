@@ -1,6 +1,8 @@
 # Learn Python from Basic to Advance
 
-![alt text](https://raw.githubusercontent.com/mlsdpk/Learn-Python-From-Basic-to-Advance/Logo/Course Logo.png)
+![alt text](https://raw.githubusercontent.com/mlsdpk/Learn-Python-From-Basic-to-Advance/master/Logo/Course Logo.png)
+
+https://raw.githubusercontent.com/rscheitlin/eSearch/master/assets/images/i_buffer.png
 
 This is the Complete Python Online Course where you can learn Python programming. You can learn Python from Basic to Advance features by enrolling this course. Even if you don't know what is programming, you can enroll this course and learn the Python programming easily and efficiently. We will cover over 100 lectures, course videos, quizzes, assignments and tests. Also there are projects where you are going to make the games using Python.
 
