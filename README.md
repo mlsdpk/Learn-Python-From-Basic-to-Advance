@@ -34,4 +34,4 @@ We'll cover 13 Sections and 1 Bonus Section here:
   Bonus Section - Advanced Python
   
   You can preview section 3 of the course by reading the notebooks provided in this github. 
-  I recommend to use nbviewer.jupyter.org and search **mlsdpk** and read the notebooks there.
+  I recommend to use <nbviewer.jupyter.org> and search **mlsdpk** and read the notebooks there.
