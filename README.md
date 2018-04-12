@@ -5,7 +5,7 @@
 
 This is the Complete Python Online Course where you can learn Python programming. You can learn Python from Basic to Advance features by enrolling this course. Even if you don't know what is programming, you can enroll this course and learn the Python programming easily and efficiently. We will cover over 100 lectures, course videos, quizzes, assignments and tests. Also there are projects where you are going to make the games using Python.
 
-**If you want to enroll the course, you can fill the form [here](http://bit.ly/laelarPythonB2A) **
+**If you want to enroll the course, you can fill the form **[here](http://bit.ly/laelarPythonB2A) 
 
     
   
