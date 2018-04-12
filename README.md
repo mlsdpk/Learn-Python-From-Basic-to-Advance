@@ -32,3 +32,5 @@ We'll cover 13 Sections and 1 Bonus Section here:
   Section 13 -  Final Project   
   
   Bonus Section - Advanced Python
+  
+  **You can preview section 3 of the course by reading the notebooks provided in this github.**
