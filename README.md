@@ -29,7 +29,7 @@ We'll cover 13 Sections and 1 Bonus Section here:
   Section 10 -  Second Project   
   Section 11 -  Modules & Packages   
   Section 12 -  Decorators    
-  Section 13 -  Generators
+  Section 13 -  Generators  
   Section 14 -  Final Project 
   
   Bonus Section - Advanced Python
