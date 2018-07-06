@@ -17,20 +17,20 @@ This is the Complete Python Online Course where you can learn Python programming
 
 We'll cover 13 Sections and 1 Bonus Section here:
 
-  Section 1  -  Course Overview  
-  Section 2  -  Python Setup  
-  Section 3  -  Object & Data Structures 
-  Section 4  -  Comparison Operators  
-  Section 5  -  Statements  
-  Section 6  -  Methods & Functions 
-  Section 7  -  First Project   
-  Section 8  -  Object Oriented Programming   
-  Section 9  -  Errors & Exception Handling   
-  Section 10 -  Second Project  
-  Section 11 -  Modules & Packages  
+  Section 1  -  Course Overview   
+  Section 2  -  Python Setup   
+  Section 3  -  Object & Data Structures  
+  Section 4  -  Comparison Operators   
+  Section 5  -  Statements   
+  Section 6  -  Methods & Functions  
+  Section 7  -  First Project    
+  Section 8  -  Object Oriented Programming    
+  Section 9  -  Errors & Exception Handling    
+  Section 10 -  Second Project   
+  Section 11 -  Modules & Packages   
   Section 12 -  Decorators    
   Section 13 -  Generators
-  Section 14 -  Final Project
+  Section 14 -  Final Project 
   
   Bonus Section - Advanced Python
   
